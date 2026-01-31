@@ -8,10 +8,7 @@ import wbgapi as wb
 st.set_page_config(page_title="Indian Economic Monitor", page_icon="🇮🇳", layout="wide")
 
 st.title("🇮🇳 Indian Economic Policy Monitor")
-st.markdown("""
-**Built by: [Your Name]** | CSE Graduate & Policy Aspirant  
-*This dashboard aggregates real-time development data from the World Bank and trade data from the RBI to assist in macroeconomic monitoring.*
-""")
+
 st.divider()
 
 # --- SIDEBAR NAVIGATION ---
